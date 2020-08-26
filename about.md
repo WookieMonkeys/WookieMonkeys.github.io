@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Plato once said `“music is a moral law. It gives soul to the universe, wings to the mind, flight to the imagination, and charm and gaiety to life and to everything ...”` I often wonder what kind of music they were making back then. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+click the links below
