@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HW2: Reflections on software engineering practices
+title: HW2 Reflections on software engineering practices
 ---
 
  Assignment: 500+ word reflection on No Silver Bullet, Kode Vicious, and Google Code Repo taken together - find common concerns in the articles and reflect upon them.
