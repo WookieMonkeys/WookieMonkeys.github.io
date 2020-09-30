@@ -1,5 +1,5 @@
 ---
 layout: post
-title: HW6 Chapter 2
+title: HW7 Chapter 5 and 6
 ---
 
